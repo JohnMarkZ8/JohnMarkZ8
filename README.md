@@ -1,4 +1,4 @@
-👋 Hi, I'm @John Mark Marraccini
+👋 Hi, I'm @John Mark Marraccini.
 
 👀 I'm interested in technology and innovation, particularly in the fields of artificial intelligence, machine learning and data science. I'm also passionate about open source projects and contributing to the developer community.
 
